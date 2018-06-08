@@ -1,5 +1,7 @@
 Project Title:-Driving Hazards
 
+Team Members:- Arth Shah, Vyaas Shenoy, Wenpu Cai and Yunjie Wang
+
 Name of the Scene:-Driving.
 Our Scene has the following assets in it: -
 •	Terrain Environment
