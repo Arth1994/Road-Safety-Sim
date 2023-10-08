@@ -1,39 +1,38 @@
-Project Title:-Driving Hazards
+# Driving Hazards
 
-Team Members:- Arth Shah, Vyaas Shenoy, Wenpu Cai and Yunjie Wang
+## Team Members
+- Arth Shah
+- Vyaas Shenoy
+- Wenpu Cai
+- Yunjie Wang
 
-Name of the Scene:-Driving.
-Our Scene has the following assets in it: -
-•	Terrain Environment
-•	Concrete Road
-•	Animal Crossing Sign
-•	Cougars
-•	Car
-Brief Description of the scene.
-Initially when the user starts the scene, she/he will be sitting inside the car. When the user starts the car, she/he will pass through different tutorials which will provide the user with information on how to accelerate the car, steer the car, brake the car and what the user should do when she/he approaches an animal crossing sign.
-So once the user is done with the tutorial, the user can continue driving through the scene and explore the area around.
-There are various cougars who some who are walking on the road and some of them are crossing the scene.
-If the user happens to hit the cougar or hit a rock on the side of the road the windshield of the car will break with the impact. 
+## Scene Name: Driving
 
-Working of the Project(PS NOTE: Both Hands Should be on the Steering Wheel)
+### Scene Assets
+- Terrain Environment
+- Concrete Road
+- Animal Crossing Sign
+- Cougars
+- Car
 
-1.	Right Vive Trigger Button: -The Right Vive Trigger Button is used for accelerating the car. If you leave the trigger button the car will start to decelerate.
+### Scene Description
+In this scene, the user will start inside a car. Starting the car initiates a series of tutorials that guide the user on accelerating, steering, braking, and responding to animal crossing signs. After completing the tutorials, the user can freely explore the scene.
 
-2.	Left Vive Touchpad: -With the help of the left Vive touchpad you can interact with the car steering and move It accordingly so as to move the car in the desired direction.
+The scene features various cougars, some walking on the road and others crossing it. If the user collides with a cougar or a roadside rock, the car's windshield will shatter.
 
-3.	Right Vive Touchpad: -With the help of the right Vive touchpad you can interact with the car steering and move It accordingly to move the car in the desired direction.
+### Project Controls (Both Hands Should be on the Steering Wheel)
 
-4.	Left Trigger Button:-If you want to brake the car while it’s in motion you should use the left trigger button.
+1. **Right Vive Trigger Button:** Accelerates the car. Releasing the button slows down the car.
 
-5.	Right Grip Button: - If you want to reposition the car back to its initial position you should use the right grip button.
+2. **Left Vive Touchpad:** Controls car steering, allowing you to change its direction.
 
-Conclusion: -We have successfully met all the requirements as mentioned by the professor in the preliminary prototype document, the final prototype document and also managed to achieve the stretch goal for the project.
+3. **Right Vive Touchpad:** Similar to the left touchpad, it controls car steering for directional changes.
 
-Please Note: - We have significantly improved the project from our preliminary and met all the demands mentioned by the professor for the preliminary prototype as well as the final prototype.
+4. **Left Trigger Button:** Applies the car's brakes.
 
+5. **Right Grip Button:** Repositions the car to its initial starting point.
 
+### Conclusion
+We have successfully met all the project requirements outlined in the preliminary prototype document, the final prototype document, and even achieved the stretch goals set for the project.
 
-
-
-
-
+Please Note: We have made significant improvements to the project since the preliminary stage, addressing all the professor's demands for both the preliminary and final prototypes.
